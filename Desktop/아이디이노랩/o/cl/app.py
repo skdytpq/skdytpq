@@ -15,7 +15,7 @@ CORS(app)
 def send_json_data():
     data = {
         "gtpInfo": [{
-            "ikyKey": "ikyXgptXpersona",
+            "ikyKey": "ikyXgptXpersona1",
             "keyword3": "한달간 평균 지출하는 비용은 558,911원으로서 비슷한 연령에 비하여 -10% 적은 수준입니다.",
             "keyword4": "본인 스스로에게는 소비자 응대 요인이 가장 중요하고, 동일한 연령과 성별의 소비자 유형과 비교해 보면 광고와 홍보에 가장 민감한 편입니다.",
             "keyword1": "링바인더",
